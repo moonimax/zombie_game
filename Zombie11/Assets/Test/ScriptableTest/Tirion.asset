@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f153115910dfb4649b2cdbda768eaaf9, type: 3}
+  m_Name: Tirion
+  m_EditorClassIdentifier: 
+  name: Tirion
+  description: This card name is Tirion
+  manaCost: 18
+  attack: 33
+  health: 4
+  artImage: {fileID: 21300000, guid: 9b59d37e49ba660469bf43adaf42c3f6, type: 3}

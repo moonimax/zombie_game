@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e9d98491356cea468d53b494f8fabfd, type: 3}
+  m_Name: Old Hat
+  m_EditorClassIdentifier: 
+  name: Old Hat
+  description: This Item name is Old Hat
+  iconImage: {fileID: 21300000, guid: d0e32601de83cca4b96963f56bb709be, type: 3}
+  itemType: 0
+  equipType: 0
+  attack: 10
+  defense: 20
